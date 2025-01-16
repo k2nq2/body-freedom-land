@@ -1,0 +1,77 @@
+.c3 {
+   padding-top: 0rem;
+}
+
+.c3-pers-wrap{
+    height: 34.8rem;
+    width: 37rem;
+    background-image: url(../../images/c3-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 21.6rem 2.8rem 3.3rem 2.8rem;
+    margin-bottom: 6rem;
+}
+.c3-pers-wrap-p{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 1.6rem;
+    line-height: 125%;
+    text-align: center;
+    color: #fff2af;
+    margin-bottom: 1.6rem;
+}
+.c3-pers-wrap-p2{
+    font-family: var(--font-family);
+font-weight: 500;
+font-size: 1.4rem;
+line-height: 129%;
+text-align: center;
+color: #fff;
+}
+.c3-wrapper{
+    display: flex;
+    gap: 3.1rem;
+    margin-top: 4rem;
+    padding-left: 1.4rem;
+}
+.c3-wrapper-text-wrap{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+.c3-wrapper-title{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 1.6rem;
+    line-height: 125%;
+    text-transform: uppercase;
+    color: #fff2af;
+}
+.c3-wrapper-text{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 143%;
+    color: #fff;
+}
+.c3-wrapper img{
+    width: 10.4rem;
+    height: 8.8rem;
+}
+.c3-end-wrap{
+    width: 37rem;
+    height: 15rem;
+    background-image: url(../../images/c3-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 6.7rem 3.1rem 3.7rem 3.1rem;
+    margin-top: 6rem;
+}
+.c3-end-wrap p{
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 1.4rem;
+line-height: 129%;
+text-align: center;
+color: #fff;
+}
