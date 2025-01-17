@@ -1,0 +1,49 @@
+.c5{
+    background-image: url(../../images/c5-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 73.3rem;
+    width: 42.8rem;
+}
+.c5-name{
+    font-family: var(--second-family);
+    font-weight: 400;
+    font-size: 3rem;
+    line-height: 100%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    margin-top: 8.4rem;
+    margin-left: -17rem;
+}
+.c5-expert{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 129%;
+    color: #4d4837;
+    margin-top: 28.2rem;
+    margin-left: 2rem;
+}
+.modal-btn{
+    background: linear-gradient(180deg, #fff2af 0%, #dcc290 100%);
+    border-radius: 1rem;
+    stroke-width: 2px;
+    stroke: rgba(255, 255, 255, 0.2);
+    box-shadow: inset 0 4px 20px 0 #fff6d6;
+    width: 32.3rem;
+    height: 8.8rem;
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 1.6rem;
+    line-height: 137%;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #4d4837;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.9rem;
+    margin-bottom: 1.4rem;
+}
