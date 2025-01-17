@@ -14,7 +14,6 @@ header svg{
 .date-block{
 display: flex;
 flex-direction: column;
-gap: 2.5rem;
 margin-top: 8.1rem;
 left: -10.4rem;
 position: relative;
@@ -37,7 +36,8 @@ margin-bottom: 6.6rem;
     text-align: center;
     color: #fff;
     padding-right: 0.6rem;
-    padding-top: 2.5rem;
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
 }
 .header-title{
     font-family: var(--second-family);
