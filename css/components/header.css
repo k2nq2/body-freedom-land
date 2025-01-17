@@ -17,7 +17,7 @@ flex-direction: column;
 margin-top: 8.1rem;
 left: -10.4rem;
 position: relative;
-margin-bottom: 4.1rem;
+margin-bottom: 6.6rem;
 }
 .date-block p{
     font-family: var(--font-family);
@@ -26,7 +26,6 @@ margin-bottom: 4.1rem;
     line-height: 175%;
     text-align: center;
     color: #fff;
-    margin-bottom: 2.2rem;
 }
 .date-block span{
     font-family: var(--third-family);
@@ -38,6 +37,7 @@ margin-bottom: 4.1rem;
     color: #fff;
     padding-right: 0.6rem;
     margin-bottom: 2.5rem;
+    paddint-top: 2.5rem
 }
 .header-title{
     font-family: var(--second-family);
